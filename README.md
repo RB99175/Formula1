@@ -12,6 +12,8 @@ This web will render race details from 1950 till 2019 for all formula race along
 
 [Github Repo](https://github.com/RB99175/Project2_React "Github Repo")
 
+[NewRepo] (https://github.com/RB99175/Formula1.git) 
+
 [Json Data](http://ergast.com/api/f1/current.json)
 
 [Third Party API](http://ergast.com/mrd/methods/seasons/ "Third Party API")
@@ -19,6 +21,7 @@ This web will render race details from 1950 till 2019 for all formula race along
 [WireFrame](https://github.com/RB99175/Project2_React/blob/master/WireFrame.png  "WireFrame")
 
 [WireFrame2](https://github.com/RB99175/Project2_React/blob/master/WireFrame2.png "WireFrame2")
+
 
 
 ### Key Milestone
@@ -92,6 +95,13 @@ src
       </div>
     </BrowserRouter>
 ```
+
+### Deployment
+[Formula1 Race](https://roodesign.herokuapp.com/)
+
+
+### Recording 
+[YoutubeLink](https://youtu.be/Um4XZFdocao)
 
 
 ### Plan
