@@ -1,6 +1,6 @@
 ### Formula-1
 
- ![](ferrari-96052_1280.png) 
+ ![](https://github.com/RB99175/Formula1/blob/master/ferrari.png) 
 
 # React Project Proposal Overview
 
