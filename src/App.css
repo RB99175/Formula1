@@ -1,0 +1,73 @@
+
+.App {
+  text-align: center;
+  background-image: url("./texture.png");
+  
+}
+.App-logo {
+  height: 10vmin; 
+  width:100px; 
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.App-header {
+  background-color: black;
+  min-height:50px;
+  font-size: 24px;
+}
+
+.body {
+  font-size: 20px; 
+  background-image: url("./texture.png");
+}
+
+table, th, td, tr {
+  border: 1px solid rgb(82, 106, 141);
+  padding: 10px;
+}
+
+.dropdown-menu-center {
+  display: block;
+  padding: 5px; 
+}
+
+P {
+  font-family: cursive;
+  font-size: 110%;
+  padding: 35px 70px 50px;
+  padding-top: 10px;
+}
+
+h1{
+  color: #fff;
+  font-family: fantasy;
+  align-self: center;
+}
+
+.raceCar1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.myButton {
+	background-color: black;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	color:#ffffff;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size:20px;
+	padding:16px 31px;
+}
+
+.select {
+  position: relative;
+  display: inline-block;
+  margin-bottom: 15px;
+  width: 10%;
+}   
+
+
