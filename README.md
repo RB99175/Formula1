@@ -1,7 +1,6 @@
 ### Formula-1
 
  ![](https://github.com/RB99175/Formula1/blob/master/ferrari.png) 
-
 # React Project Proposal Overview
 
 ### Project Description
@@ -61,7 +60,7 @@ src
   +-- Container
    +-- HomePage.js
    +-- Results.js
-  +-- Container
+  +-- Components
    |   +-- Button.js
    |   +-- QueryDetails.js
    |   +-- RaceTable.js
